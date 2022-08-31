@@ -1,0 +1,20 @@
+.wrapper
+{
+  margin: 100px auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+.large
+{
+  width: 200px;
+  height: 200px;
+}
+.small
+{
+  width: 100px;
+  height: 100px;
+}
+img
+{
+  height: 100%;
+}
